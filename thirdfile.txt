@@ -1,1 +1,2 @@
 1st line in thirdfile.txt
+2nd line added
